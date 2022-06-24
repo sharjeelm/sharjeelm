@@ -2,11 +2,6 @@
 <h1 align="center">I'm Sharjeel Mansha</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/25859343?s=400&v=4" alt="sharjeelm" /></a> </p>
-
-
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeelm&show_icons=true&locale=en&layout=compact" alt="sharjeelm" /></p>
