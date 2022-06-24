@@ -1,4 +1,20 @@
 ### Hi there 👋
+<h1 align="center">I'm Sharjeel Mansha</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharjeelm" alt="sharjeelm" /></a> </p>
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeelm&show_icons=true&locale=en&layout=compact" alt="sharjeelm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharjeelm&show_icons=true&locale=en" alt="sharjeelm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeelm&" alt="sharjeelm" /></p>
+
 
 <!--
 **sharjeelm/sharjeelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
